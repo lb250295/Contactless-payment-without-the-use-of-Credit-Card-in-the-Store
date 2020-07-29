@@ -1,0 +1,7 @@
+D:\Tasks\2020 Hackathon\ws\ContactlessPayment\ConsoleVoiceRecognition\bin\Debug\ConsoleVoiceRecognition.exe.config
+D:\Tasks\2020 Hackathon\ws\ContactlessPayment\ConsoleVoiceRecognition\bin\Debug\ConsoleVoiceRecognition.exe
+D:\Tasks\2020 Hackathon\ws\ContactlessPayment\ConsoleVoiceRecognition\bin\Debug\ConsoleVoiceRecognition.pdb
+D:\Tasks\2020 Hackathon\ws\ContactlessPayment\ConsoleVoiceRecognition\obj\Debug\ConsoleVoiceRecognition.csprojAssemblyReference.cache
+D:\Tasks\2020 Hackathon\ws\ContactlessPayment\ConsoleVoiceRecognition\obj\Debug\ConsoleVoiceRecognition.csproj.CoreCompileInputs.cache
+D:\Tasks\2020 Hackathon\ws\ContactlessPayment\ConsoleVoiceRecognition\obj\Debug\ConsoleVoiceRecognition.exe
+D:\Tasks\2020 Hackathon\ws\ContactlessPayment\ConsoleVoiceRecognition\obj\Debug\ConsoleVoiceRecognition.pdb
